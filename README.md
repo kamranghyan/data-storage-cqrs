@@ -273,4 +273,4 @@ This is the most important thing to understand about CQRS:
 
 ## Related Posts
 
-- LinkedIn Article: [link]
+- LinkedIn Article: https://www.linkedin.com/pulse/system-design-hands-cqrs-kamran-ghyan-7kurf/
